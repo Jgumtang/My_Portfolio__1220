@@ -4,5 +4,7 @@
 }
 
 .container_one {
-    background-color:black;
+    background-color: red;
+    display: flex;
+    justify-content: center;
 }
